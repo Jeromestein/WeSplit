@@ -57,6 +57,7 @@
 				CC66D8D4298496F800D3817A /* ContentView.swift */,
 				CC66D8D6298496F800D3817A /* Assets.xcassets */,
 				CC66D8D8298496F800D3817A /* Preview Content */,
+				CC66D8E029849A0700D3817A /* README.md */,
 			);
 			path = WeSplit;
 			sourceTree = "<group>";
