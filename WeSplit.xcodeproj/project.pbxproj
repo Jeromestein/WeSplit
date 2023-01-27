@@ -19,6 +19,7 @@
 		CC66D8D4298496F800D3817A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CC66D8D6298496F800D3817A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC66D8D9298496F800D3817A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CC66D8E029849A0700D3817A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		CC66D8C6298496F800D3817A = {
 			isa = PBXGroup;
 			children = (
+				CC66D8E029849A0700D3817A /* README.md */,
 				CC66D8D1298496F800D3817A /* WeSplit */,
 				CC66D8D0298496F800D3817A /* Products */,
 			);
